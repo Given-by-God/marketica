@@ -1,5 +1,5 @@
 # marketica
-######deploy:
+deploy:
 ```
 1)git clone https://github.com/Given-by-God/marketica.git
 2)cd 
